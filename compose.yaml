@@ -1,0 +1,6 @@
+services:
+  classdiabeteslifestyle:
+    image: classdiabeteslifestyle
+    build:
+      context: .
+      dockerfile: ./Dockerfile

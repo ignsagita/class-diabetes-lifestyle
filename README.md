@@ -1,5 +1,10 @@
-# Develop and Deploy A Diabetes Prescreening Model based on Lifestyle Habit using Python, Streamlit and Docker
+# Develop and Deploy A Diabetes Prescreening Model based on Lifestyle Habit
 Try the app here: [Live App](https://diabetes-prescreen.streamlit.app/)
+
+## Motivation
+- According to WHO, silent-killer diseases, including diabetes, cause [75% of all global deaths](https://www.who.int/news-room/spotlight/the-silentkillers), and nearly half of people with diabetes remain undiagnosed and without noticeable symptoms until irreversible complications like heart disease, kidney failure, or vision loss may already be underway.
+- Alarmingly, the prevalence of type 2 diabetes in younger adults and adolescents is increasing. For example, recent U.S. trends show [type 2 diagnoses in those under 20 have doubled over 16 years](https://www.cdc.gov/diabetes/data-research/research/trends-new-diabetes-cases-young-people.html).
+-  **Early detection and lifestyle awareness**: This app provides a quick, accessible, and non-invasive way to assess your risk of diabetes through everyday lifestyle questions, long before symptoms appear. It especially empowers the younger generation to encourage proactive health choices that can reduce or even reverse diabetes risk.
 
 ## Overview
 This project is a diabetes risk prescreening tool based on lifestyle and demographic factors.
